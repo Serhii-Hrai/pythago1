@@ -1,0 +1,1 @@
+This project is a simple calculator that calculates the hypotenuse of a right-angled triangle using the lengths of its two shorter sides. It applies the Pythagorean theorem to determine the result. The project demonstrates how mathematical formulas can be implemented in a programming language
